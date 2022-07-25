@@ -1,0 +1,13 @@
+.custom-bg-info {
+    background-color: #fceae8;
+}
+.catagoy img {
+    width: 100px;
+}
+.btn-buy-now {
+    background-color: #fdf5f8;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
